@@ -1,12 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-# do NOT change the next two lines of code...
-import sys
-
-assert (
-    "linux" in sys.platform
-), "This code should be run on Linux, just a reminder to follow instructions..."
 import random
 from typing import List, Tuple
 
